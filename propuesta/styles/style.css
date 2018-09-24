@@ -1,0 +1,11 @@
+.fundaciones{
+  width: 400px;
+  height: 100px;
+  border: 1px solid #000;
+  margin: auto;
+}
+.boton{
+  border: 6px;
+  border color: #bdbdbd;
+  text-align: center; 
+}
